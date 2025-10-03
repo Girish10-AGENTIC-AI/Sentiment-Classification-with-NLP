@@ -1,4 +1,4 @@
-# Aspect-Based Sentiment Classification for E-Commerce Reviews  
+# Sentiment Classification with NLP   
 > Project conducted: December 2024 (was not uploaded at the time)
 
 Building a machine learning pipeline to classify customer sentiments across multiple product aspects in the e-commerce domain.
@@ -147,3 +147,4 @@ Result from running `main.ipynb` with a Vietnamese review input
 - Trained and compared multiple classification models  
 - Built a functional inference pipeline ready for deployment  
 - Practiced crawling, labeling, NLP preprocessing, model evaluation, and modular code organization
+
